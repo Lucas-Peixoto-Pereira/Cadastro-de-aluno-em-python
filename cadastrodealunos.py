@@ -1,7 +1,7 @@
 # Importa a biblioteca tkinter para criar a interface gráfica
 import tkinter as tk
 from tkinter import messagebox
-import csv  # Importe a biblioteca 
+import csv  # Importe a biblioteca CSV
 from tkinter import ttk  # Importe ttk para usar os widgets estilizados
 
 # Lista para armazenar informações dos alunos
