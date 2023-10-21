@@ -1,11 +1,12 @@
 # Importa a biblioteca tkinter para criar a interface gráfica
 import tkinter as tk
 from tkinter import messagebox
-import csv  # Importe a biblioteca CSV
+import csv  # Importe a biblioteca 
 from tkinter import ttk  # Importe ttk para usar os widgets estilizados
 
 # Lista para armazenar informações dos alunos
 ALUNOS = []
+
 
 # Função para criar botões estilizados
 def criar_botao_estilizado(parent, texto, comando):
